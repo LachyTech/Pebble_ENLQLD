@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "him357@enlightenedqld.org",
+    "longName": "Ingress Enlightened QLD",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ENLQLD_menu.png",
+                "menuIcon": true,
+                "name": "ENLQLD_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/EQLD_Pebble.png",
+                "name": "ENL_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "EnlightenedQLD",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0912cf11-774b-4a39-b60a-c0cb4b28cbbb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
