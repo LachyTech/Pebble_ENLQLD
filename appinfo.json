@@ -8,13 +8,14 @@
         "configurable"
     ],
     "companyName": "him357@enlightenedqld.org",
-    "longName": "Ingress Enlightened QLD",
+    "longName": "Ingress Community",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/EQLD_Pebble_RESv2.png",
-                "name": "RES_LOGO",
+                "file": "images/ENLQLD_menu.png",
+                "menuIcon": true,
+                "name": "ENLQLD_MENU",
                 "type": "png"
             },
             {
@@ -23,19 +24,14 @@
                 "type": "png"
             },
             {
-                "file": "images/ENLQLD_menu.png",
-                "menuIcon": true,
-                "name": "ENLQLD_MENU",
+                "file": "images/EQLD_Pebble_RESv2.png",
+                "name": "RES_LOGO",
                 "type": "png"
             }
         ]
     },
-    "sdkVersion": "3",
-    "shortName": "EnlightenedQLD",
-    "targetPlatforms": [
-        "aplite",
-        "basalt"
-    ],
+    "sdkVersion": "2",
+    "shortName": "IngressCommunity",
     "uuid": "0912cf11-774b-4a39-b60a-c0cb4b28cbbb",
     "versionCode": 1,
     "versionLabel": "1.2",
