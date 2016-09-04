@@ -7,7 +7,7 @@ Pebble.addEventListener('ready',
 Pebble.addEventListener("showConfiguration",
   function(e) {
     //Load the remote config page
-    Pebble.openURL("https://dl.dropboxusercontent.com/u/24511867/pebble-enlightenedqld/config.html");
+    Pebble.openURL("http://mikethetech.com/enlightenedqld/config.html");
   }
 );
 
