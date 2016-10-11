@@ -13,9 +13,8 @@
     "resources": {
         "media": [
             {
-                "file": "images/ENLQLD_menu.png",
-                "menuIcon": true,
-                "name": "ENLQLD_MENU",
+                "file": "images/EQLD_Pebble_RESv2.png",
+                "name": "RES_LOGO",
                 "type": "png"
             },
             {
@@ -24,8 +23,9 @@
                 "type": "png"
             },
             {
-                "file": "images/EQLD_Pebble_RESv2.png",
-                "name": "RES_LOGO",
+                "file": "images/ENLQLD_menu.png",
+                "menuIcon": true,
+                "name": "ENLQLD_MENU",
                 "type": "png"
             }
         ]
