@@ -34,7 +34,7 @@
     "shortName": "IngressCommunity",
     "uuid": "0912cf11-774b-4a39-b60a-c0cb4b28cbbb",
     "versionCode": 1,
-    "versionLabel": "1.2",
+    "versionLabel": "1.4",
     "watchapp": {
         "watchface": true
     }
